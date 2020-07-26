@@ -23,7 +23,7 @@ eureka:
 
 ---
 server:
-  port: 8205
+  port: 8202
 spring:
   profiles: test
   application:
